@@ -1,0 +1,12 @@
+
+# client dependencies
+/client/node_modules
+/client/package-lock.json
+
+# server dependencies
+/server/node_modules
+/server/package-lock.json
+
+# user dependencies
+/user/node_modules
+/user/package-lock.json
